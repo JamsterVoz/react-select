@@ -1,0 +1,6 @@
+1. list dropdown dengan data beserta fitur input search
+2. filter data dengan cara ascending
+3. output hasil data
+
+Framework = JS
+REACT JS + library (REACT-SELECT)
